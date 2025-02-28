@@ -21,13 +21,13 @@ Make sure you have Python installed on your system.
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/slot-machine-game.git
+git clone https://github.com/saparsha/slot-machine.git   
 
 # Navigate to the project directory
-cd slot-machine-game
+cd slot-machine
 
 # Run the game
-python slot_machine.py
+python main.py
 ```
 
 ---
